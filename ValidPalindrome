@@ -1,4 +1,4 @@
-#a fast function to identify a Palindrome string
+#fast function to identify a Palindrome string
 
 class Solution:
     def isPalindrome(self, s: str) -> bool:
